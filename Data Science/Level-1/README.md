@@ -1,16 +1,15 @@
-# Data Analysis and Visualization Tasks 📊
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/d8006ac3-d3ea-4141-8d40-43e7d8172ad8'/></div>
 
-This document provides an overview of the steps taken to complete three data analysis and visualization tasks: Task 1 (Data Exploration and Preprocessing), Task 2 (Descriptive Analysis), and Task 3 (Geospatial Analysis). Each section includes detailed steps, visualizations, and key insights. 🚀
+This comprehensive report outlines the methodology and findings from three critical tasks: Data Exploration and Preprocessing, Descriptive Analysis, and Geospatial Analysis. Each task is meticulously documented with clear steps, detailed insights, and impactful visualizations to provide a holistic understanding of the dataset. 🚀
 
 ---
+## Task Overview 📃
 
-## Task Overview 📝
-
-| **Task**              | **Description**                                                                 |
-|-----------------------|-------------------------------------------------------------------------------|
-| **Task 1**            | Data Exploration and Preprocessing: Handle missing values, remove duplicates, and analyze data distributions. |
-| **Task 2**            | Descriptive Analysis: Calculate statistical measures and analyze categorical variables. |
-| **Task 3**            | Geospatial Analysis: Visualize restaurant locations and analyze location-based patterns. |
+| **Task**    | **Description**                                                                                   |
+|-------------|---------------------------------------------------------------------------------------------------|
+| **Task 1**  | Data Exploration and Preprocessing: Handle missing values, remove duplicates, and analyze data distributions. |
+| **Task 2**  | Descriptive Analysis: Calculate statistical measures and analyze categorical variables.           |
+| **Task 3**  | Geospatial Analysis: Visualize restaurant locations and analyze location-based patterns.          |
 
 ---
 
@@ -38,9 +37,9 @@ This document provides an overview of the steps taken to complete three data ana
 
 ### Visualization:
 
-| **Visualization**           | **Description**                                                             |
-|-----------------------------|---------------------------------------------------------------------------|
-| Histogram of Aggregate Ratings | Displayed the frequency of aggregate ratings with KDE for smoothness. |
+| **Visualization**              | **Description**                                                             |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Histogram of Aggregate Ratings | Displayed the frequency of aggregate ratings with KDE for smoothness.       |
 
 ---
 
@@ -65,11 +64,11 @@ This document provides an overview of the steps taken to complete three data ana
 
 ### Visualization:
 
-| **Visualization**                 | **Description**                                                                    |
-|-----------------------------------|----------------------------------------------------------------------------------|
-| Countplot of Country Codes         | Showed the number of restaurants per country.                                   |
-| Top 20 Cities by Restaurants       | Bar chart displaying cities with the highest number of restaurants.             |
-| Top 20 Cuisines by Restaurants     | Bar chart displaying the most popular cuisines.                                 |
+| **Visualization**                | **Description**                                                            |
+|----------------------------------|----------------------------------------------------------------------------|
+| Countplot of Country Codes       | Showed the number of restaurants per country.                              |
+| Top 20 Cities by Restaurants     | Bar chart displaying cities with the highest number of restaurants.        |
+| Top 20 Cuisines by Restaurants   | Bar chart displaying the most popular cuisines.                            |
 
 ---
 
@@ -92,10 +91,10 @@ This document provides an overview of the steps taken to complete three data ana
 
 ### Visualization:
 
-| **Visualization**                | **Description**                                                               |
-|----------------------------------|-------------------------------------------------------------------------------|
-| Global Restaurant Distribution    | Scatter plot of restaurant locations on a world map.                         |
-| Correlation Analysis              | Heatmap to explore relationships between location and ratings.               |
+| **Visualization**                | **Description**                                                            |
+|----------------------------------|----------------------------------------------------------------------------|
+| Global Restaurant Distribution   | Scatter plot of restaurant locations on a world map.                       |
+| Correlation Analysis             | Heatmap to explore relationships between location and ratings.             |
 
 ---
 
@@ -103,4 +102,6 @@ This document provides an overview of the steps taken to complete three data ana
 
 This analysis provides valuable insights into the dataset, including rating distributions, popular cuisines, and location-based patterns. By preprocessing the data, conducting descriptive analysis, and leveraging geospatial techniques, meaningful conclusions were drawn to support business decisions. 💡
 
-Feel free to explore the accompanying Python code for a deeper understanding of the implementation! 🐍
+---
+
+_Thank you for checking out the project! 🌟_
